@@ -15,12 +15,12 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --color-jade: var(--jade);
-  --color-emerald: var(--emerald);
+  --color-quaternary: var(--jade);
+  --color-quinary: var(--emerald);
   --color-white: var(--white);
-  --color-timberwolf: var(--timberwolf);
-  --color-eblack-20: var(--eblack-20);
-  --color-eblack-17: var(--eblack-17);
+  --color-tertiary: var(--timberwolf);
+  --color-secondary: var(--eblack-20);
+  --color-primary: var(--eblack-17);
 
 }
 
