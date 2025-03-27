@@ -1,5 +1,7 @@
+import RegisterView from "@/views/RegisterView/RegisterView"
+
 const Register = () => {
-	return <div>Register</div>
+	return <RegisterView/>
 }
 
 export default Register

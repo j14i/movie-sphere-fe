@@ -1,5 +1,7 @@
+import LoginView from "@/views/LoginView/LoginView"
+
 const Login = () => {
-	return <div>Login</div>
+	return <LoginView/>
 }
 
 export default Login
