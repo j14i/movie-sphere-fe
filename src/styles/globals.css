@@ -9,7 +9,6 @@
   --timberwolf: #d0d0d0;
   --eblack-20: #202020;
   --eblack-17: #171717;
-
 }
 
 @theme inline {
@@ -30,5 +29,3 @@
     --foreground: #ededed;
   }
 }
-
-
